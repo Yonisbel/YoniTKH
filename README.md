@@ -65,7 +65,6 @@ Additionally, I'm dedicated to equipping users with the skills they need to tack
 - Operating System, software, and application installation (Linux, Windows, and MacOS)
 - Design network topology
 - Routers, Switches, and Firewalls installation and configuration
-- Good knowledge of Cisco IOS
 - Proficient in AWS cloud services such as EC2, VPC, S3, IAM, Route53, and etc.
 - Windows Server Administration
 - Technical Support and troubleshooting
@@ -88,7 +87,7 @@ Additionally, I'm dedicated to equipping users with the skills they need to tack
 <!-- ## 👩‍💻 [My Resume](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/EmilieDionisio-Res2023%26.pdf) -->
 
 ---
-necessary cybersecurity knowledge and skills. 
+<!-- necessary cybersecurity knowledge and skills. 
 
 <!--## 📘 [My Research Project](/emResearch.md) 
 -->
@@ -96,7 +95,7 @@ necessary cybersecurity knowledge and skills.
 
 - 🌱 I’m currently learning Cybersecurity Networking at [The Knowledge House](https://www.theknowledgehouse.org/)
 - 📫 How to reach me: Sotoyonisbel@gmail.com
-- ⚡ Fun fact: Im from New York City and I like to train MMA in my free time  
+- ⚡ Fun fact: Im from New York City and I like to train MMA in my free time.  
 
 <p align="center">
   <a href="www.linkedin.com/in/yonisbelsoto">
