@@ -1,7 +1,7 @@
 
 ### [HOME](https://github.com/Yonisbel) 
 
-<!--| [PROJECTS](https://emiliedionisio.github.io/emProjects.html) | [RESEARCH](https://emiliedionisio.github.io/emResearch.html) | <!--[RESUME ON GITPAGE](https://emiliedionisio.github.io/emtechres.html) -->| [RESUME PDF VERSION](EmilieDionisio-Res07302023.pdf) --> 
+<!--| [PROJECTS](https://emiliedionisio.github.io/emProjects.html) | [RESEARCH](https://emiliedionisio.github.io/emResearch.html) | [RESUME ON GITPAGE](https://emiliedionisio.github.io/emtechres.html) | [RESUME PDF VERSION](EmilieDionisio-Res07302023.pdf) --> 
 [CERTS](credly.com/users/yonisbelsoto/badges)<br /> 
 
 ### 📱 **//ping me:**
